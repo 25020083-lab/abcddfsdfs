@@ -18,6 +18,5 @@ public class Main {
         system.login("nguyen_van_a", "123");
         system.login("shop_thoi_trang", "456");
         system.login("admin_root", "789");
-        System.out.println("duyyy");
     }
 }
